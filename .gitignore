@@ -1,0 +1,30 @@
+# Gradle
+/.gradle
+/build
+/app/build
+
+# Local configuration
+local.properties
+
+# IntelliJ / Android Studio
+.idea/
+*.iml
+*.iws
+
+# Android
+*.apk
+*.ap_
+captures/
+output.json
+
+# Kotlin/Java
+/out/
+
+# Misc
+.DS_Store
+Thumbs.db
+
+# JetBrains
+.idea/
+*.iws
+*.iml
