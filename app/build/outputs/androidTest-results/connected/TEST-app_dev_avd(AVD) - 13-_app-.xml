@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="com.example.androidappsample.MainActivityTest" tests="8" failures="0" errors="0" skipped="0" time="9.51" timestamp="2025-11-15T13:20:56" hostname="localhost">
+  <properties>
+    <property name="device" value="app_dev_avd(AVD) - 13" />
+    <property name="flavor" value="" />
+    <property name="project" value=":app" />
+  </properties>
+  <testcase name="testHelloTextContent" classname="com.example.androidappsample.MainActivityTest" time="0.366" />
+  <testcase name="testOutputTextViewIsVisible" classname="com.example.androidappsample.MainActivityTest" time="0.362" />
+  <testcase name="testEditTextIsVisible" classname="com.example.androidappsample.MainActivityTest" time="0.36" />
+  <testcase name="testGreetingWithUserInput" classname="com.example.androidappsample.MainActivityTest" time="1.384" />
+  <testcase name="testButtonIsVisible" classname="com.example.androidappsample.MainActivityTest" time="0.363" />
+  <testcase name="testGreetingWithEmptyInput" classname="com.example.androidappsample.MainActivityTest" time="0.643" />
+  <testcase name="testHelloTextViewIsDisplayed" classname="com.example.androidappsample.MainActivityTest" time="0.337" />
+  <testcase name="testMultipleGreetings" classname="com.example.androidappsample.MainActivityTest" time="1.666" />
+</testsuite>

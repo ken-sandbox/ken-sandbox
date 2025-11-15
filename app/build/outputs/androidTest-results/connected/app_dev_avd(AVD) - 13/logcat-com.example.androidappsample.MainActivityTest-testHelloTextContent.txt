@@ -1,0 +1,56 @@
+11-15 13:20:46.343  4247  4292 I TestRunner: started: testHelloTextContent(com.example.androidappsample.MainActivityTest)
+11-15 13:20:46.348  4247  4292 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+11-15 13:20:46.357   862   916 D SplashScreenView: Build android.window.SplashScreenView{5b637fd V.E...... ......ID 0,0-0,0}
+11-15 13:20:46.357   862   916 D SplashScreenView: Icon: view: null drawable: null size: 0
+11-15 13:20:46.357   862   916 D SplashScreenView: Branding: view: android.view.View{e531cf2 G.ED..... ......I. 0,0-0,0 #10204db android:id/splashscreen_branding_view} drawable: null size w: 0 h: 0
+11-15 13:20:46.397  4247  4308 D libEGL  : loaded /vendor/lib64/egl/libEGL_emulation.so
+11-15 13:20:46.419  4247  4247 D AppCompatDelegate: Checking for metadata for AppLocalesMetadataHolderService : Service not found
+11-15 13:20:46.422   862  1029 W Parcel  : Expecting binder but got null!
+11-15 13:20:46.427  4247  4247 D LifecycleMonitor: Lifecycle status change: com.example.androidappsample.MainActivity@638e6b4 in: PRE_ON_CREATE
+11-15 13:20:46.428  4247  4247 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+11-15 13:20:46.446  4247  4308 D libEGL  : loaded /vendor/lib64/egl/libGLESv1_CM_emulation.so
+11-15 13:20:46.447  4247  4308 D libEGL  : loaded /vendor/lib64/egl/libGLESv2_emulation.so
+11-15 13:20:46.455  4247  4247 W ndroidappsample: Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (unsupported, reflection, allowed)
+11-15 13:20:46.455  4247  4247 W ndroidappsample: Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (unsupported, reflection, allowed)
+11-15 13:20:46.458  4247  4247 D CompatibilityChangeReporter: Compat change id reported: 210923482; UID 10127; state: ENABLED
+11-15 13:20:46.478  4247  4247 D LifecycleMonitor: Lifecycle status change: com.example.androidappsample.MainActivity@638e6b4 in: CREATED
+11-15 13:20:46.479  4247  4247 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.androidappsample.MainActivity@638e6b4
+11-15 13:20:46.480  4247  4247 D LifecycleMonitor: Lifecycle status change: com.example.androidappsample.MainActivity@638e6b4 in: STARTED
+11-15 13:20:46.480  4247  4247 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.androidappsample.MainActivity@638e6b4
+11-15 13:20:46.482  4247  4247 D LifecycleMonitor: Lifecycle status change: com.example.androidappsample.MainActivity@638e6b4 in: RESUMED
+11-15 13:20:46.483  4247  4247 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.androidappsample.MainActivity@638e6b4
+11-15 13:20:46.530  4247  4304 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_vulkan_queue_submit_with_commands ANDROID_EMU_sync_buffer_data ANDROID_EMU_vulkan_async_qsri ANDROID_EMU_read_color_buffer_dma ANDROID_EMU_hwc_multi_configs ANDROID_EMU_hwc_color_transform GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_3_1
+11-15 13:20:46.530  4247  4304 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+11-15 13:20:46.530   862  1029 D EGL_emulation: app_time_stats: avg=11196.95ms min=11196.95ms max=11196.95ms count=1
+11-15 13:20:46.531  4247  4304 W OpenGLRenderer: Failed to initialize 101010-2 format, error = EGL_SUCCESS
+11-15 13:20:46.542  4247  4304 D EGL_emulation: eglCreateContext: 0x7f69f3abb490: maj 3 min 1 rcv 4
+11-15 13:20:46.545   862  1029 D EGL_emulation: app_time_stats: avg=27645.86ms min=13.48ms max=414473.53ms count=15
+11-15 13:20:46.568  4247  4304 D EGL_emulation: eglMakeCurrent: 0x7f69f3abb490: ver 3 1 (tinfo 0x7f6c0eeb9080) (first time)
+11-15 13:20:46.578   242   242 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.mapper@4.0::IMapper/default in either framework or device VINTF manifest.
+11-15 13:20:46.578  4247  4304 I Gralloc4: mapper 4.x is not supported
+11-15 13:20:46.580   242   242 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.allocator@4.0::IAllocator/default in either framework or device VINTF manifest.
+11-15 13:20:46.580   237   237 I servicemanager: Could not find android.hardware.graphics.allocator.IAllocator/default in the VINTF manifest.
+11-15 13:20:46.580  4247  4304 W Gralloc4: allocator 4.x is not supported
+11-15 13:20:46.595  4247  4304 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_vulkan_queue_submit_with_commands ANDROID_EMU_sync_buffer_data ANDROID_EMU_vulkan_async_qsri ANDROID_EMU_read_color_buffer_dma ANDROID_EMU_hwc_multi_configs ANDROID_EMU_hwc_color_transform GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_3_1
+11-15 13:20:46.661  4247  4304 W Parcel  : Expecting binder but got null!
+11-15 13:20:46.662   593   610 W ziparchive: Unable to open '/data/app/~~u7C49lQxi8t8ZCiTgASwLg==/com.example.androidappsample-ujJYUuI37unaDbPmZf_V-g==/base.dm': No such file or directory
+11-15 13:20:46.663   593   610 I ActivityTaskManager: Displayed com.example.androidappsample/.MainActivity: +311ms
+11-15 13:20:46.681   466   484 W TransactionTracing: Could not find layer handle 0x7301d6329f30
+11-15 13:20:46.714   466   484 W TransactionTracing: Could not find layer handle 0x7301d6328550
+11-15 13:20:46.714   466   484 W TransactionTracing: Could not find layer handle 0x7301d6329090
+11-15 13:20:46.714   466   484 W TransactionTracing: Could not find layer handle 0x7301d6329090
+11-15 13:20:46.714   466   484 W TransactionTracing: Could not find layer handle 0x7301d6328550
+11-15 13:20:46.719  4247  4292 W FileTestStorage: Output properties is not supported.
+11-15 13:20:46.720  4247  4292 I Tracing : Tracer added: class androidx.test.platform.tracing.AndroidXTracer
+11-15 13:20:46.723  4247  4292 D EventInjectionStrategy: Creating injection strategy with input manager.
+11-15 13:20:46.723  4247  4292 W ndroidappsample: Accessing hidden method Landroid/hardware/input/InputManager;->getInstance()Landroid/hardware/input/InputManager; (unsupported, reflection, allowed)
+11-15 13:20:46.723  4247  4292 W ndroidappsample: Accessing hidden method Landroid/hardware/input/InputManager;->injectInputEvent(Landroid/view/InputEvent;I)Z (unsupported, reflection, allowed)
+11-15 13:20:46.723  4247  4292 W ndroidappsample: Accessing hidden field Landroid/hardware/input/InputManager;->INJECT_INPUT_EVENT_MODE_WAIT_FOR_FINISH:I (unsupported, reflection, allowed)
+11-15 13:20:46.728  4247  4247 W ndroidappsample: Accessing hidden method Landroid/os/MessageQueue;->next()Landroid/os/Message; (unsupported, reflection, allowed)
+11-15 13:20:46.728  4247  4247 W ndroidappsample: Accessing hidden field Landroid/os/MessageQueue;->mMessages:Landroid/os/Message; (unsupported, reflection, allowed)
+11-15 13:20:46.728  4247  4247 W ndroidappsample: Accessing hidden method Landroid/os/Message;->recycleUnchecked()V (unsupported, reflection, allowed)
+11-15 13:20:46.729  4247  4247 W ndroidappsample: Accessing hidden method Landroid/view/WindowManagerGlobal;->getInstance()Landroid/view/WindowManagerGlobal; (unsupported, reflection, allowed)
+11-15 13:20:46.729  4247  4247 W ndroidappsample: Accessing hidden field Landroid/view/WindowManagerGlobal;->mViews:Ljava/util/ArrayList; (unsupported, reflection, allowed)
+11-15 13:20:46.729  4247  4247 W ndroidappsample: Accessing hidden field Landroid/view/WindowManagerGlobal;->mParams:Ljava/util/ArrayList; (unsupported, reflection, allowed)
+11-15 13:20:46.730  4247  4247 I ViewInteraction: Checking 'com.example.androidappsample.MainActivityTest$$ExternalSyntheticLambda5@ae9932a' assertion on view view.getId() is <2131231120/com.example.androidappsample:id/textHello>
+11-15 13:20:46.732  4247  4292 I TestRunner: finished: testHelloTextContent(com.example.androidappsample.MainActivityTest)

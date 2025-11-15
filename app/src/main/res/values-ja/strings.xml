@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">サンプルアプリ</string>
+    <string name="hello">こんにちは、世界！</string>
+    <string name="greeting_format">こんにちは、%1$sさん！</string>
+    <string name="enter_name">名前を入力してください</string>
+    <string name="greet">挨拶</string>
+    <string name="default_greeting">こんにちは、世界！</string>
+</resources>

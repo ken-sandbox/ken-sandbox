@@ -1,0 +1,6 @@
+com.example.androidappsample.test.app-jetified-annotation-experimental-1.3.0-0 C:\Users\pyqjg\.gradle\caches\transforms-3\ac533be3f86950381651dd835e60654f\transformed\jetified-annotation-experimental-1.3.0\res
+com.example.androidappsample.test.app-jetified-core-1.5.0-1 C:\Users\pyqjg\.gradle\caches\transforms-3\cdb337871e176823f916493ad209b410\transformed\jetified-core-1.5.0\res
+com.example.androidappsample.test.app-androidTest-2 C:\projects\app_dev\android-app\app\build\generated\res\resValues\androidTest\debug
+com.example.androidappsample.test.app-mergeDebugAndroidTestResources-3 C:\projects\app_dev\android-app\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.androidappsample.test.app-mergeDebugAndroidTestResources-4 C:\projects\app_dev\android-app\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.androidappsample.test.app-merged_res-5 C:\projects\app_dev\android-app\app\build\intermediates\merged_res\debugAndroidTest

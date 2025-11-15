@@ -1,0 +1,80 @@
+11-15 13:20:53.568  4247  4292 I TestRunner: started: testMultipleGreetings(com.example.androidappsample.MainActivityTest)
+11-15 13:20:53.570  4247  4292 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+11-15 13:20:53.575   862   916 D SplashScreenView: Build android.window.SplashScreenView{b6cfdd4 V.E...... ......ID 0,0-0,0}
+11-15 13:20:53.575   862   916 D SplashScreenView: Icon: view: null drawable: null size: 0
+11-15 13:20:53.575   862   916 D SplashScreenView: Branding: view: android.view.View{8b6db7d G.ED..... ......I. 0,0-0,0 #10204db android:id/splashscreen_branding_view} drawable: null size w: 0 h: 0
+11-15 13:20:53.580  4247  4247 D LifecycleMonitor: Lifecycle status change: com.example.androidappsample.MainActivity@247bae3 in: PRE_ON_CREATE
+11-15 13:20:53.581  4247  4247 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was DESTROYED
+11-15 13:20:53.581  4247  4247 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was DESTROYED
+11-15 13:20:53.581  4247  4247 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was DESTROYED
+11-15 13:20:53.581  4247  4247 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was DESTROYED
+11-15 13:20:53.582  4247  4247 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was DESTROYED
+11-15 13:20:53.582  4247  4247 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was DESTROYED
+11-15 13:20:53.582  4247  4247 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was DESTROYED
+11-15 13:20:53.582  4247  4247 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+11-15 13:20:53.591  4247  4247 D AutofillManager: Fill dialog is enabled:false, hints=[]
+11-15 13:20:53.594  4247  4247 D LifecycleMonitor: Lifecycle status change: com.example.androidappsample.MainActivity@247bae3 in: CREATED
+11-15 13:20:53.595  4247  4247 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.androidappsample.MainActivity@247bae3
+11-15 13:20:53.595  4247  4247 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.androidappsample.MainActivity@247bae3
+11-15 13:20:53.595  4247  4247 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.androidappsample.MainActivity@247bae3
+11-15 13:20:53.595  4247  4247 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.androidappsample.MainActivity@247bae3
+11-15 13:20:53.595  4247  4247 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.androidappsample.MainActivity@247bae3
+11-15 13:20:53.595  4247  4247 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.androidappsample.MainActivity@247bae3
+11-15 13:20:53.595  4247  4247 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.androidappsample.MainActivity@247bae3
+11-15 13:20:53.595  4247  4247 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.androidappsample.MainActivity@247bae3
+11-15 13:20:53.596  4247  4247 D LifecycleMonitor: Lifecycle status change: com.example.androidappsample.MainActivity@247bae3 in: STARTED
+11-15 13:20:53.596  4247  4247 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.androidappsample.MainActivity@247bae3
+11-15 13:20:53.596  4247  4247 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.androidappsample.MainActivity@247bae3
+11-15 13:20:53.596  4247  4247 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.androidappsample.MainActivity@247bae3
+11-15 13:20:53.596  4247  4247 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.androidappsample.MainActivity@247bae3
+11-15 13:20:53.596  4247  4247 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.androidappsample.MainActivity@247bae3
+11-15 13:20:53.596  4247  4247 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.androidappsample.MainActivity@247bae3
+11-15 13:20:53.596  4247  4247 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.androidappsample.MainActivity@247bae3
+11-15 13:20:53.596  4247  4247 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.androidappsample.MainActivity@247bae3
+11-15 13:20:53.597  4247  4247 D LifecycleMonitor: Lifecycle status change: com.example.androidappsample.MainActivity@247bae3 in: RESUMED
+11-15 13:20:53.597  4247  4247 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.androidappsample.MainActivity@247bae3
+11-15 13:20:53.597  4247  4247 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.androidappsample.MainActivity@247bae3
+11-15 13:20:53.597  4247  4247 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.androidappsample.MainActivity@247bae3
+11-15 13:20:53.597  4247  4247 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.androidappsample.MainActivity@247bae3
+11-15 13:20:53.597  4247  4247 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.androidappsample.MainActivity@247bae3
+11-15 13:20:53.597  4247  4247 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.androidappsample.MainActivity@247bae3
+11-15 13:20:53.597  4247  4247 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.androidappsample.MainActivity@247bae3
+11-15 13:20:53.597  4247  4247 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.androidappsample.MainActivity@247bae3
+11-15 13:20:53.619   862  1029 W Parcel  : Expecting binder but got null!
+11-15 13:20:53.673  4247  4304 W Parcel  : Expecting binder but got null!
+11-15 13:20:53.676   593   610 W ziparchive: Unable to open '/data/app/~~u7C49lQxi8t8ZCiTgASwLg==/com.example.androidappsample-ujJYUuI37unaDbPmZf_V-g==/base.dm': No such file or directory
+11-15 13:20:53.676   593   610 I ActivityTaskManager: Displayed com.example.androidappsample/.MainActivity: +103ms
+11-15 13:20:53.700   466   484 W TransactionTracing: Could not find layer handle 0x7301d6326ed0
+11-15 13:20:53.841   862  1029 D EGL_emulation: app_time_stats: avg=21.46ms min=3.47ms max=375.37ms count=36
+11-15 13:20:53.864   466   484 W TransactionTracing: Could not find layer id -1
+11-15 13:20:53.918  4247  4247 I ViewInteraction: Performing 'type text(Bob)' action on view view.getId() is <2131230868/com.example.androidappsample:id/editTextName>
+11-15 13:20:53.949   466   484 W TransactionTracing: Could not find layer handle 0x7301d6325cd0
+11-15 13:20:53.957   593  4100 W InputManager-JNI: Input channel object 'add3e82 Splash Screen com.example.androidappsample (client)' was disposed without first being removed with the input manager!
+11-15 13:20:53.963  4247  4247 D InputMethodManager: showSoftInput() view=androidx.appcompat.widget.AppCompatEditText{c9edb0f VFED..CL. .F.P..ID 212,649-868,775 #7f080094 app:id/editTextName aid=1073741824} flags=0 reason=SHOW_SOFT_INPUT
+11-15 13:20:53.967  1410  1410 I LatinIME: Starting input. Cursor position = 0,0
+11-15 13:20:53.967  1120  1120 W FrameTracker: Missing SF jank callback for vsyncId: 76684, CUJ=J<LAUNCHER_APP_CLOSE_TO_HOME>
+11-15 13:20:54.002  4247  4247 W OnBackInvokedCallback: OnBackInvokedCallback is not enabled for the application.
+11-15 13:20:54.002  4247  4247 W OnBackInvokedCallback: Set 'android:enableOnBackInvokedCallback="true"' in the application manifest.
+11-15 13:20:54.007   862   915 W FrameTracker: Missing HWUI jank callback for vsyncId: 77235, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+11-15 13:20:54.007   862   915 W FrameTracker: Missing SF jank callback for vsyncId: 77262, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+11-15 13:20:54.048  4247  4247 D InsetsController: show(ime(), fromIme=true)
+11-15 13:20:54.199  4247  4247 D UiControllerImpl: Injecting string: "Bob"
+11-15 13:20:54.223   593  4100 D InputDispatcher: Touch mode switch rejected, caller (pid=0, uid=10127) doesn't own the focused window nor none of the previously interacted window
+11-15 13:20:54.287  4247  4247 I ViewInteraction: Performing 'close keyboard' action on view view.getId() is <2131230868/com.example.androidappsample:id/editTextName>
+11-15 13:20:54.288  4247  4247 D IdlingRegistry: Registering idling resources: [androidx.test.espresso.action.CloseKeyboardAction$CloseKeyboardIdlingResult@cf1345d]
+11-15 13:20:54.593  4247  4247 D IdlingRegistry: Unregistering idling resources: [androidx.test.espresso.action.CloseKeyboardAction$CloseKeyboardIdlingResult@cf1345d]
+11-15 13:20:54.596  4247  4247 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230808/com.example.androidappsample:id/buttonGreet>
+11-15 13:20:54.685  4247  4304 D EGL_emulation: app_time_stats: avg=38.33ms min=0.95ms max=234.65ms count=23
+11-15 13:20:54.902  4247  4247 I ViewInteraction: Checking 'com.example.androidappsample.MainActivityTest$$ExternalSyntheticLambda2@c1b9215' assertion on view view.getId() is <2131231121/com.example.androidappsample:id/textOutput>
+11-15 13:20:54.904  4247  4247 I ViewInteraction: Performing 'replace text(Charlie)' action on view view.getId() is <2131230868/com.example.androidappsample:id/editTextName>
+11-15 13:20:54.907  1410  1465 I LatinIME:LogUtils: Dictionary info: dictionary = spellcheck_userunigram.en_US ; version = 1763212854 ; date = ?
+11-15 13:20:54.910  1410  1465 I LatinIME:LogUtils: Dictionary info: dictionary = spellcheck_contacts.en_US ; version = 1763212854 ; date = ?
+11-15 13:20:54.922  4247  4247 I ViewInteraction: Performing 'close keyboard' action on view view.getId() is <2131230868/com.example.androidappsample:id/editTextName>
+11-15 13:20:54.922  4247  4247 D IdlingRegistry: Registering idling resources: [androidx.test.espresso.action.CloseKeyboardAction$CloseKeyboardIdlingResult@a0adcb8]
+11-15 13:20:54.922  4247  4247 W CloseKeyboardAction: Attempting to close soft keyboard, while it is not shown.
+11-15 13:20:54.922  4247  4247 D IdlingRegistry: Unregistering idling resources: [androidx.test.espresso.action.CloseKeyboardAction$CloseKeyboardIdlingResult@a0adcb8]
+11-15 13:20:54.923  1410  1465 I LatinIME:LogUtils: Dictionary info: dictionary = main:en ; version = 54 ; date = 1414726273
+11-15 13:20:54.924  4247  4247 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230808/com.example.androidappsample:id/buttonGreet>
+11-15 13:20:55.031   466   484 W TransactionTracing: Could not find layer handle 0x7301d632cdb0
+11-15 13:20:55.219  4247  4247 I ViewInteraction: Checking 'com.example.androidappsample.MainActivityTest$$ExternalSyntheticLambda3@a155f7' assertion on view view.getId() is <2131231121/com.example.androidappsample:id/textOutput>
+11-15 13:20:55.219  4247  4292 I TestRunner: finished: testMultipleGreetings(com.example.androidappsample.MainActivityTest)

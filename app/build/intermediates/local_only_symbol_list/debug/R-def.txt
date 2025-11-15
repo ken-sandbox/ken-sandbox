@@ -1,0 +1,13 @@
+R_DEF: Internal format may change without notice
+local
+id buttonGreet
+id editTextName
+id textHello
+id textOutput
+layout activity_main
+string app_name
+string default_greeting
+string enter_name
+string greet
+string greeting_format
+string hello

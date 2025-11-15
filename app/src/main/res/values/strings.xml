@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroidAppSample</string>
+    <!-- Default (English) -->
+    <string name="hello">Hello, World!</string>
+    <string name="greeting_format">Hello, %1$s!</string>
+    <string name="enter_name">Enter your name</string>
+    <string name="greet">Greet</string>
+    <string name="default_greeting">Hello, World!</string>
+</resources>
